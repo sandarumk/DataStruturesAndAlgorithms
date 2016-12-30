@@ -1,3 +1,5 @@
+package LinkedLists;
+
 /**
  * This class represents the basic implementation of a single linked list
  * Created by dinu on 12/30/16.
@@ -71,7 +73,7 @@ public class LinkedList {
      */
     public int peek(){
         if(head == null) {
-            throw new EmptyLinkedListException("EmptyLinkedListException");
+            throw new EmptyLinkedListException("LinkedLists.EmptyLinkedListException");
         }else{
             return head.data;
         }
@@ -84,7 +86,7 @@ public class LinkedList {
      */
     public boolean contains(int data){
         if(head == null){
-            throw  new EmptyLinkedListException("EmptyLinkedListException");
+            throw  new EmptyLinkedListException("LinkedLists.EmptyLinkedListException");
         }else{
             while(head!= null){
                 if(head.data == data){
@@ -104,7 +106,7 @@ public class LinkedList {
      */
     public boolean contains (SingleLinkedListNode node){
         if(head == null){
-            throw  new EmptyLinkedListException("EmptyLinkedListException");
+            throw  new EmptyLinkedListException("LinkedLists.EmptyLinkedListException");
         }else{
             while(head!= null){
                 if(head == node){

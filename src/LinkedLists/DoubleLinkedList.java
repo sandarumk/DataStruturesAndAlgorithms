@@ -1,3 +1,5 @@
+package LinkedLists;
+
 /**
  * This class represents the basic implementation of a double linked list
  * Created by dinu on 12/30/16.
