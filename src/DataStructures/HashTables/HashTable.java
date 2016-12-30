@@ -1,4 +1,4 @@
-package DataStructures;
+package DataStructures.HashTables;
 
 /**
  * Hash table implementation where both the key and the value are strings
