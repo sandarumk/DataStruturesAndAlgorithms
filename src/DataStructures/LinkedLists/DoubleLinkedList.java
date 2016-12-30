@@ -1,4 +1,4 @@
-package LinkedLists;
+package DataStructures.LinkedLists;
 
 /**
  * This class represents the basic implementation of a double linked list

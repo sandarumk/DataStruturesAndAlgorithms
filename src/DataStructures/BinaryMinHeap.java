@@ -1,4 +1,4 @@
-package Heaps;
+package DataStructures;
 
 /**
  * Heap implementation using an array

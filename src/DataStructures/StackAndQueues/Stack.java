@@ -1,4 +1,4 @@
-package StackAndQueues;
+package DataStructures.StackAndQueues;
 
 import java.util.EmptyStackException;
 

@@ -1,4 +1,4 @@
-package TreesTriesAndGraphs;
+package DataStructures.TreesTriesAndGraphs;
 
 /**
  * This is a simple tree structure

@@ -1,4 +1,4 @@
-package HashTables;
+package DataStructures;
 
 /**
  * Hash table implementation where both the key and the value are strings

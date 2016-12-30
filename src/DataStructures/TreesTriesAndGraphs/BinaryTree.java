@@ -1,4 +1,4 @@
-package TreesTriesAndGraphs;
+package DataStructures.TreesTriesAndGraphs;
 
 /**
  * Simple Binary tree representation

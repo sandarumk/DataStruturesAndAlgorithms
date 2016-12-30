@@ -1,4 +1,4 @@
-package TreesTriesAndGraphs;
+package DataStructures.TreesTriesAndGraphs;
 
 /**
  * Adjacency matrix representation of a grapgh

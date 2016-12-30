@@ -1,4 +1,4 @@
-package ArrayLists;
+package DataStructures.ArrayLists;
 
 /**
  * Array list is a resizable array

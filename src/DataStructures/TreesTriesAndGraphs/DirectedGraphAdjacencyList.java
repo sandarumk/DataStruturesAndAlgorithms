@@ -1,4 +1,4 @@
-package TreesTriesAndGraphs;
+package DataStructures.TreesTriesAndGraphs;
 
 import java.util.List;
 
